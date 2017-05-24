@@ -47,7 +47,7 @@
     
 }
 
-//- (void) startCarLocationViewPassword:(CDVInvokedUrlCommand*)command{
+- (void) startCarLocationViewPassword:(CDVInvokedUrlCommand*)command{
     
 }
 

@@ -1,0 +1,1 @@
+# cordova-incall-plugins-AppInfo

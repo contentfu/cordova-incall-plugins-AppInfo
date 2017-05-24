@@ -1,0 +1,33 @@
+{
+  "name": "cordova-incall-plugins-AppInfo",
+  "version": "2.0.0",
+  "description": "Cordova AppInfo Plugin",
+  "cordova": {
+    "id": "cordova-incall-plugins-AppInfo",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contentfu/cordova-incall-plugins-AppInfo.git"
+  },
+  "keywords": [
+    "cordova",
+    "AppInfo",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Rusted",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/contentfu/cordova-incall-plugins-AppInfo/issues"
+  },
+  "homepage": "https://github.com/contentfu/cordova-incall-plugins-AppInfo#readme"
+}
